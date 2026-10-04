@@ -2,10 +2,11 @@
  "updated": "2026-10-04",
  "demo": true,
  "working": [
-  "Find your steps: describe what you need in your own words, confirm the match, answer two or three questions, and get the steps with the official source and check date on every line.",
+  "Find your steps: describe what you need in your own words, confirm the match, answer two or three questions, and get the steps. Every line says where in the official source it comes from, shows the exact words, links to them, and lets you copy them.",
   "Review desk: each claim sits beside the exact passage it came from. A claim reaches users only after the reviewer approves it, and the reviewer must say whether the source is still current.",
   "Sources: a copy of each official source is saved. Checking a source again finds the claims whose passage is no longer in the text, moves them to re-check, and marks the step as under review for users.",
-  "AI drafting: paste an official text and the AI drafts claims from it. Any claim whose quoted words are not in the text word for word is dropped before it reaches the queue."
+  "AI drafting: paste an official text and the AI drafts claims from it. Any claim whose quoted words are not in the text word for word is dropped before it reaches the queue.",
+  "Two tiers: reviewed steps appear in plain language. Where a person has not yet reviewed a procedure, the site shows only the official source's own words, quoted exactly and matched against a saved copy, with nothing written by AI."
  ],
  "limits": [
   "Three procedures are set up, one route each: adult name change through the central gazette, a first-name or full-name change on Aadhaar, and putting a vehicle in your name after the owner's death (Maharashtra).",
@@ -32,7 +33,9 @@
     "Made the site shareable, with a saved copy for visitors who are not signed in, and added this progress record.",
     "Published the site on GitHub, with the source, data model and design notes.",
     "Added a second, unlike procedure: vehicle transfer after the owner's death, drafted from the transport ministry's page, Maharashtra's registration guide and Form 31.",
-    "Added prerequisites: a procedure can now say what must be obtained first from another procedure."
+    "Added prerequisites: a procedure can now say what must be obtained first from another procedure.",
+    "Every line now shows where in the source it comes from, with the exact words, a link to the passage and a copy button.",
+    "Added the second tier: unreviewed procedures show the official source's own words only, once the quote has been matched against a saved copy."
    ]
   },
   {

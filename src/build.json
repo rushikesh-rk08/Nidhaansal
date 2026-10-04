@@ -4,8 +4,9 @@
  "working": [
   "Find your steps: describe what you need in your own words, confirm the match, answer two or three questions, and get the steps. Every line says where in the official source it comes from, shows the exact words, links to them, and lets you copy them.",
   "Review desk: each claim sits beside the exact passage it came from. A claim reaches users only after the reviewer approves it, and the reviewer must say whether the source is still current.",
+  "Review by source: all the claims drawn from one document are reviewed in one sitting, beside the official words. Low-risk matched lines are ticked in advance; fees, documents, deadlines and eligibility must be ticked by the reviewer.",
   "Sources: a copy of each official source is saved. Checking a source again finds the claims whose passage is no longer in the text, moves them to re-check, and marks the step as under review for users.",
-  "AI drafting: paste an official text and the AI drafts claims from it. Any claim whose quoted words are not in the text word for word is dropped before it reaches the queue.",
+  "AI drafting: paste an official text and the AI drafts a whole procedure from it: its name, the steps and the claims, each with its exact quote and place in the source. Any claim whose quoted words are not in the text word for word is dropped.",
   "Two tiers: reviewed steps appear in plain language. Where a person has not yet reviewed a procedure, the site shows only the official source's own words, quoted exactly and matched against a saved copy, with nothing written by AI."
  ],
  "limits": [
@@ -14,7 +15,8 @@
   "The vehicle transfer claims are AI drafts waiting for review, so its steps show as still being checked.",
   "Source copies are pasted in by hand. Nothing checks sources on a schedule yet.",
   "AI matching and AI drafting need a signed-in Claude account. Other visitors get keyword matching.",
-  "AI drafting is built but has not yet been tried on a real document."
+  "AI drafting of a whole procedure is built but has not yet been tried on a real document.",
+  "Each source is still pasted in by hand, one at a time."
  ],
  "next": [
   "Review of the vehicle transfer drafts, and a saved copy of each of its three sources.",
@@ -35,7 +37,8 @@
     "Added a second, unlike procedure: vehicle transfer after the owner's death, drafted from the transport ministry's page, Maharashtra's registration guide and Form 31.",
     "Added prerequisites: a procedure can now say what must be obtained first from another procedure.",
     "Every line now shows where in the source it comes from, with the exact words, a link to the passage and a copy button.",
-    "Added the second tier: unreviewed procedures show the official source's own words only, once the quote has been matched against a saved copy."
+    "Added the second tier: unreviewed procedures show the official source's own words only, once the quote has been matched against a saved copy.",
+    "Removed the case-by-case work: one pasted source now produces a whole procedure, visible to users at once as exact quotes, and its claims are reviewed together by source."
    ]
   },
   {

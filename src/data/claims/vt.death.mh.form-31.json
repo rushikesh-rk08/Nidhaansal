@@ -1,0 +1,31 @@
+{
+ "affects": null,
+ "conflicts": [],
+ "currency": "unknown",
+ "decisions": [],
+ "drafted_by": "ai",
+ "evidence": {
+  "issuer": "Ministry of Road Transport and Highways",
+  "kind": "passage",
+  "locator": "Documents required",
+  "passage": "Form 31",
+  "passage_found": null,
+  "source_id": "morth-ownership-transfer",
+  "source_title": "Transfer of Ownership (Parivahan Sewa)",
+  "stated_period": null,
+  "url": "https://mparivahan.parivahan.gov.in/mstatic/english/rc-info-ownership.html"
+ },
+ "open_signals": [],
+ "order": 17,
+ "procedure_id": "vehicle-transfer-death",
+ "procedure_title": "Put a vehicle in your name after the owner has died",
+ "risk": "high",
+ "statement": "Fill in Form 31, the application to transfer the vehicle to the person who has succeeded to it.",
+ "status": "draft",
+ "step_action": "Collect the papers for the transfer.",
+ "step_position": 3,
+ "type": "document",
+ "value": null,
+ "variant_id": "vehicle-transfer-death.mh",
+ "variant_title": "Vehicle registered in Maharashtra"
+}

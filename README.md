@@ -12,8 +12,9 @@ user gets short, source-linked steps in plain language.
 This is an early working build. The **Progress** tab on the site is the running
 record of what works, what is still demo data, and what comes next.
 
-- Two procedures are covered, one route each: adult name change through the
-  central gazette, and a first-name or full-name change on Aadhaar.
+- Three procedures are set up, one route each: adult name change through the
+  central gazette, a first-name or full-name change on Aadhaar, and putting a
+  vehicle in your name after the owner's death (Maharashtra, still in review).
 - The steps shown are demo data. They were approved to test the flow and have
   not yet been checked line by line against the sources. Do not rely on them.
 - This public site is a view-only published copy. Approving claims, checking

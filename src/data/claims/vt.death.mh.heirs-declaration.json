@@ -1,0 +1,31 @@
+{
+ "affects": null,
+ "conflicts": [],
+ "currency": "unknown",
+ "decisions": [],
+ "drafted_by": "ai",
+ "evidence": {
+  "issuer": "Ministry of Road Transport and Highways",
+  "kind": "passage",
+  "locator": "Documents required (marked as required in some states)",
+  "passage": "Declaration by applicant and all other Legal Heirs of deceased",
+  "passage_found": null,
+  "source_id": "morth-ownership-transfer",
+  "source_title": "Transfer of Ownership (Parivahan Sewa)",
+  "stated_period": null,
+  "url": "https://mparivahan.parivahan.gov.in/mstatic/english/rc-info-ownership.html"
+ },
+ "open_signals": [],
+ "order": 22,
+ "procedure_id": "vehicle-transfer-death",
+ "procedure_title": "Put a vehicle in your name after the owner has died",
+ "risk": "high",
+ "statement": "Your state may also ask for a declaration by you and all the other legal heirs.",
+ "status": "draft",
+ "step_action": "Collect the papers for the transfer.",
+ "step_position": 3,
+ "type": "document",
+ "value": null,
+ "variant_id": "vehicle-transfer-death.mh",
+ "variant_title": "Vehicle registered in Maharashtra"
+}

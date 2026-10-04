@@ -1,0 +1,48 @@
+{
+ "order": 2,
+ "phrases": [
+  "my father passed away and his scooter is in his name",
+  "transfer car after death of owner",
+  "vehicle of deceased person",
+  "inherit vehicle",
+  "RC transfer after death",
+  "legal heir vehicle transfer",
+  "वडिलांच्या नावावरची गाडी",
+  "पिता की मृत्यु के बाद गाड़ी अपने नाम",
+  "gaadi apne naam karna death ke baad"
+ ],
+ "questions": [
+  {
+   "help": "Look at the number plate. The first two letters are the state: MH is Maharashtra.",
+   "id": "q-vt-state",
+   "options": [
+    {
+     "id": "o-vt-mh",
+     "label": "Maharashtra (number starts with MH)"
+    },
+    {
+     "id": "o-vt-other",
+     "label": "Another state"
+    }
+   ],
+   "wording": "In which state is the vehicle registered?"
+  }
+ ],
+ "title": "Put a vehicle in your name after the owner has died",
+ "variants": [
+  {
+   "conditions": [
+    "o-vt-mh"
+   ],
+   "id": "vehicle-transfer-death.mh",
+   "needs_first": [
+    {
+     "note": "The transport office asks for proof of succession. This comes from a separate procedure at a court or the revenue office, and it can take weeks, so start it first.",
+     "procedure_id": null,
+     "title": "Proof that you are the successor"
+    }
+   ],
+   "title": "Vehicle registered in Maharashtra"
+  }
+ ]
+}

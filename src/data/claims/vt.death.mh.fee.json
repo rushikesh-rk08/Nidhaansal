@@ -1,0 +1,31 @@
+{
+ "affects": null,
+ "conflicts": [],
+ "currency": "unknown",
+ "decisions": [],
+ "drafted_by": "ai",
+ "evidence": {
+  "issuer": "Ministry of Road Transport and Highways",
+  "kind": "passage",
+  "locator": "Transfer of ownership on death of owner",
+  "passage": "Pay appropriate fee and tax as specified in rule 81 of the Central Motor Vehicles Rules 1989",
+  "passage_found": null,
+  "source_id": "morth-ownership-transfer",
+  "source_title": "Transfer of Ownership (Parivahan Sewa)",
+  "stated_period": null,
+  "url": "https://mparivahan.parivahan.gov.in/mstatic/english/rc-info-ownership.html"
+ },
+ "open_signals": [],
+ "order": 24,
+ "procedure_id": "vehicle-transfer-death",
+ "procedure_title": "Put a vehicle in your name after the owner has died",
+ "risk": "high",
+ "statement": "Pay the fee and tax set by rule 81 of the Central Motor Vehicles Rules. The source does not state the amount.",
+ "status": "draft",
+ "step_action": "Apply at the transport office and pay the fee.",
+ "step_position": 4,
+ "type": "fee",
+ "value": null,
+ "variant_id": "vehicle-transfer-death.mh",
+ "variant_title": "Vehicle registered in Maharashtra"
+}

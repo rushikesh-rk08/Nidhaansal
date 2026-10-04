@@ -1,0 +1,34 @@
+{
+ "affects": null,
+ "conflicts": [
+  "The product owner's experience was that a newspaper notice was needed for this transfer. That notice is most likely part of getting a succession certificate from a court, not something the RTO asks for. Not verified.",
+  "Guides differ on whether a legal heir certificate from the revenue office is accepted in place of a court succession certificate. No official source found yet."
+ ],
+ "currency": "unknown",
+ "decisions": [],
+ "drafted_by": "ai",
+ "evidence": {
+  "issuer": "Motor Vehicles Department, Maharashtra",
+  "kind": "passage",
+  "locator": "section 4.29",
+  "passage": "the proof of succession (as required by form-31)",
+  "passage_found": null,
+  "source_id": "mh-registration-guide",
+  "source_title": "Registration of Motor Vehicles (section 4.29)",
+  "stated_period": null,
+  "url": "https://transport.maharashtra.gov.in/Site/Upload/GR/REGISTRATION_OF_MOTOR_VEHICLES.pdf"
+ },
+ "open_signals": [],
+ "order": 16,
+ "procedure_id": "vehicle-transfer-death",
+ "procedure_title": "Put a vehicle in your name after the owner has died",
+ "risk": "high",
+ "statement": "You need proof of succession to apply.",
+ "status": "draft",
+ "step_action": "Get proof that you are the successor.",
+ "step_position": 2,
+ "type": "document",
+ "value": null,
+ "variant_id": "vehicle-transfer-death.mh",
+ "variant_title": "Vehicle registered in Maharashtra"
+}

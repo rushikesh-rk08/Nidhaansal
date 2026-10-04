@@ -8,14 +8,16 @@
   "AI drafting: paste an official text and the AI drafts claims from it. Any claim whose quoted words are not in the text word for word is dropped before it reaches the queue."
  ],
  "limits": [
-  "Two procedures are covered, one route each: adult name change through the central gazette, and a first-name or full-name change on Aadhaar.",
+  "Three procedures are set up, one route each: adult name change through the central gazette, a first-name or full-name change on Aadhaar, and putting a vehicle in your name after the owner's death (Maharashtra).",
   "The steps shown are demo data. They were approved to test the flow and have not yet been checked line by line against the sources.",
+  "The vehicle transfer claims are AI drafts waiting for review, so its steps show as still being checked.",
   "Source copies are pasted in by hand. Nothing checks sources on a schedule yet.",
   "AI matching and AI drafting need a signed-in Claude account. Other visitors get keyword matching.",
   "AI drafting is built but has not yet been tried on a real document."
  ],
  "next": [
-  "A second, unlike procedure: transferring a vehicle after the owner's death, which depends on a separate proof-of-succession procedure.",
+  "Review of the vehicle transfer drafts, and a saved copy of each of its three sources.",
+  "Proof of succession as its own procedure. The vehicle transfer depends on it, and it is where the court's newspaper notice appears to belong.",
   "A real review of every claim against its source, after which the demo notice comes off.",
   "Scheduled source checks, and reports from users on what the counter actually asked for."
  ],
@@ -27,7 +29,10 @@
     "Built the user view: plain-language intake, fixed questions, steps with sources and check dates, and an honest 'we do not cover this yet'.",
     "Built sources: saved copies, change detection, and the re-check flow.",
     "Built AI drafting with a word-for-word check on every quoted passage.",
-    "Made the site shareable, with a saved copy for visitors who are not signed in, and added this progress record."
+    "Made the site shareable, with a saved copy for visitors who are not signed in, and added this progress record.",
+    "Published the site on GitHub, with the source, data model and design notes.",
+    "Added a second, unlike procedure: vehicle transfer after the owner's death, drafted from the transport ministry's page, Maharashtra's registration guide and Form 31.",
+    "Added prerequisites: a procedure can now say what must be obtained first from another procedure."
    ]
   },
   {

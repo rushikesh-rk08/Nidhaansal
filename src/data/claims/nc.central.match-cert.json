@@ -1,0 +1,40 @@
+{
+ "affects": null,
+ "conflicts": [],
+ "currency": "unknown",
+ "decisions": [
+  {
+   "at": "2026-10-04T06:04:45.050Z",
+   "decision": "approve",
+   "note": "",
+   "reviewer": "reviewer"
+  }
+ ],
+ "drafted_by": "ai",
+ "evidence": {
+  "issuer": "Department of Publication",
+  "kind": "passage",
+  "locator": "list item (vi)",
+  "passage": "A certificate duly signed by the applicant declaring therein that the contents of the hard copy and the soft copy are similar.",
+  "passage_found": null,
+  "source_id": "dop-guidelines-adult",
+  "source_title": "Guidelines for change of name for adult (major)",
+  "stated_period": "Fee stated for 01/04/2016 to 31/03/2017; payment note dated 04/10/2018",
+  "url": "https://cdnbbsr.s3waas.gov.in/s3ea6b2efbdd4255a9f1b3bbc6399b58f4/uploads/2023/06/202312082035285613.pdf"
+ },
+ "open_signals": [],
+ "order": 5,
+ "procedure_id": "name-change-adult",
+ "procedure_title": "Change your name legally (adult)",
+ "risk": "high",
+ "statement": "Submit a signed certificate that the printed copy and the soft copy are the same.",
+ "status": "verified",
+ "step_action": "Prepare the undertaking, the printed notice form and your photographs.",
+ "step_position": 2,
+ "type": "document",
+ "value": null,
+ "variant_id": "name-change-adult.central",
+ "variant_title": "Central gazette route",
+ "verified_at": "2026-10-04T06:04:45.050Z",
+ "verified_by": "reviewer"
+}

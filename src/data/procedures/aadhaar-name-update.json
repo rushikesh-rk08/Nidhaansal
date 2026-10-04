@@ -1,0 +1,38 @@
+{
+ "order": 1,
+ "phrases": [
+  "aadhaar name change",
+  "wrong name on aadhaar",
+  "update aadhaar name",
+  "aadhaar card name correction",
+  "आधार नाव",
+  "आधार नाम"
+ ],
+ "questions": [
+  {
+   "help": "A new first name or a completely new full name is a change. A spelling fix, initials or word order is a correction.",
+   "id": "q-aa-kind",
+   "options": [
+    {
+     "id": "o-aa-change",
+     "label": "A different first or full name"
+    },
+    {
+     "id": "o-aa-correct",
+     "label": "A correction"
+    }
+   ],
+   "wording": "Is the name on your Aadhaar becoming a different name, or only being corrected?"
+  }
+ ],
+ "title": "Update the name on your Aadhaar",
+ "variants": [
+  {
+   "conditions": [
+    "o-aa-change"
+   ],
+   "id": "aadhaar-name-update.full",
+   "title": "First name or full name change"
+  }
+ ]
+}

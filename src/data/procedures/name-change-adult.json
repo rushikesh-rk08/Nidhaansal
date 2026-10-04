@@ -1,0 +1,59 @@
+{
+ "order": 0,
+ "phrases": [
+  "change my name",
+  "new name on all my documents",
+  "name change after marriage",
+  "gazette for name change",
+  "naam badalna",
+  "नाव बदलणे",
+  "नाम बदलना"
+ ],
+ "questions": [
+  {
+   "help": "Lay your documents side by side. If it is the same name written differently (initials, spelling, order), it is a correction.",
+   "id": "q-nc-kind",
+   "options": [
+    {
+     "id": "o-nc-kind-change",
+     "label": "A different name"
+    },
+    {
+     "id": "o-nc-kind-correct",
+     "label": "Fixing spelling or order"
+    }
+   ],
+   "wording": "Are you changing your name to a different one, or fixing how it is spelt or ordered on some documents?"
+  },
+  {
+   "help": "Either can work for Aadhaar. The state route differs by state, and so far we have only checked the central route.",
+   "id": "q-nc-gazette",
+   "options": [
+    {
+     "id": "o-nc-gaz-central",
+     "label": "Central government"
+    },
+    {
+     "id": "o-nc-gaz-state",
+     "label": "My state"
+    }
+   ],
+   "wording": "Do you want the notice published by the central government or by your state?"
+  }
+ ],
+ "title": "Change your name legally (adult)",
+ "variants": [
+  {
+   "before_you_start": [
+    "aadhaar.full.address-match"
+   ],
+   "conditions": [
+    "o-nc-kind-change",
+    "o-nc-gaz-central"
+   ],
+   "id": "name-change-adult.central",
+   "leads_to": "aadhaar-name-update",
+   "title": "Central gazette route"
+  }
+ ]
+}

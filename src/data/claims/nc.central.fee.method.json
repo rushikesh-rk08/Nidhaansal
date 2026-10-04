@@ -1,0 +1,40 @@
+{
+ "affects": null,
+ "conflicts": [],
+ "currency": "unknown",
+ "decisions": [
+  {
+   "at": "2026-10-04T06:04:55.989Z",
+   "decision": "approve",
+   "note": "",
+   "reviewer": "reviewer"
+  }
+ ],
+ "drafted_by": "ai",
+ "evidence": {
+  "issuer": "Department of Publication",
+  "kind": "passage",
+  "locator": "para 5",
+  "passage": "The amount will have to be submitted through NTRP (Non Tax Receipt Portal), i.e. www.bharatkosh.gov.in. from 01/10/2018 onwards",
+  "passage_found": null,
+  "source_id": "dop-guidelines-adult",
+  "source_title": "Guidelines for change of name for adult (major)",
+  "stated_period": "Fee stated for 01/04/2016 to 31/03/2017; payment note dated 04/10/2018",
+  "url": "https://cdnbbsr.s3waas.gov.in/s3ea6b2efbdd4255a9f1b3bbc6399b58f4/uploads/2023/06/202312082035285613.pdf"
+ },
+ "open_signals": [],
+ "order": 7,
+ "procedure_id": "name-change-adult",
+ "procedure_title": "Change your name legally (adult)",
+ "risk": "high",
+ "statement": "Pay through the Non Tax Receipt Portal, bharatkosh.gov.in.",
+ "status": "verified",
+ "step_action": "Pay the publication fee online.",
+ "step_position": 3,
+ "type": "requirement",
+ "value": null,
+ "variant_id": "name-change-adult.central",
+ "variant_title": "Central gazette route",
+ "verified_at": "2026-10-04T06:04:55.989Z",
+ "verified_by": "reviewer"
+}

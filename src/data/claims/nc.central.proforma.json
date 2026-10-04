@@ -1,0 +1,43 @@
+{
+ "affects": null,
+ "conflicts": [],
+ "currency": "unknown",
+ "decisions": [
+  {
+   "at": "2026-10-04T06:04:32.965Z",
+   "decision": "approve",
+   "note": "",
+   "reviewer": "reviewer"
+  }
+ ],
+ "drafted_by": "ai",
+ "evidence": {
+  "issuer": "Department of Publication",
+  "kind": "passage",
+  "locator": "para 3",
+  "passage": "signed by the individual in his/her old name, with two witnesses in duplicate should be submitted along with soft copy (CD MS Word)",
+  "passage_found": null,
+  "source_id": "dop-guidelines-adult",
+  "source_title": "Guidelines for change of name for adult (major)",
+  "stated_period": "Fee stated for 01/04/2016 to 31/03/2017; payment note dated 04/10/2018",
+  "url": "https://cdnbbsr.s3waas.gov.in/s3ea6b2efbdd4255a9f1b3bbc6399b58f4/uploads/2023/06/202312082035285613.pdf"
+ },
+ "open_signals": [],
+ "order": 3,
+ "procedure_id": "name-change-adult",
+ "procedure_title": "Change your name legally (adult)",
+ "risk": "high",
+ "statement": "Submit the prescribed notice form in duplicate, typed, signed in your old name and by two witnesses, with a soft copy in MS Word on CD.",
+ "status": "verified",
+ "step_action": "Prepare the undertaking, the printed notice form and your photographs.",
+ "step_position": 2,
+ "type": "document",
+ "value": {
+  "copies": 2,
+  "witnesses": 2
+ },
+ "variant_id": "name-change-adult.central",
+ "variant_title": "Central gazette route",
+ "verified_at": "2026-10-04T06:04:32.965Z",
+ "verified_by": "reviewer"
+}

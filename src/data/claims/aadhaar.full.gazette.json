@@ -1,0 +1,40 @@
+{
+ "affects": null,
+ "conflicts": [],
+ "currency": "unknown",
+ "decisions": [
+  {
+   "at": "2026-10-04T06:05:19.305Z",
+   "decision": "approve",
+   "note": "",
+   "reviewer": "reviewer"
+  }
+ ],
+ "drafted_by": "ai",
+ "evidence": {
+  "issuer": "UIDAI",
+  "kind": "passage",
+  "locator": "List IV, item 18",
+  "passage": "For change in first name or change in full name: Gazette notification",
+  "passage_found": null,
+  "source_id": "uidai-doc-list",
+  "source_title": "List of acceptable documents for enrolment and update",
+  "stated_period": null,
+  "url": "https://uidai.gov.in/images/commdoc/List_of_Supporting_Document_for_Aadhaar_Enrolment_and_Update.pdf"
+ },
+ "open_signals": [],
+ "order": 12,
+ "procedure_id": "aadhaar-name-update",
+ "procedure_title": "Update the name on your Aadhaar",
+ "risk": "high",
+ "statement": "A change of first name or full name on Aadhaar needs a gazette notification.",
+ "status": "verified",
+ "step_action": "Take the gazette and an ID in your old name to an Aadhaar centre.",
+ "step_position": 1,
+ "type": "document",
+ "value": null,
+ "variant_id": "aadhaar-name-update.full",
+ "variant_title": "First name or full name change",
+ "verified_at": "2026-10-04T06:05:19.305Z",
+ "verified_by": "reviewer"
+}

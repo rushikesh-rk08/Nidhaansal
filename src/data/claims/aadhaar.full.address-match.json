@@ -1,0 +1,40 @@
+{
+ "affects": "Use your Aadhaar address in the undertaking and notice, or update the Aadhaar address first.",
+ "conflicts": [],
+ "currency": "unknown",
+ "decisions": [
+  {
+   "at": "2026-10-04T06:05:32.486Z",
+   "decision": "approve",
+   "note": "",
+   "reviewer": "reviewer"
+  }
+ ],
+ "drafted_by": "ai",
+ "evidence": {
+  "issuer": "UIDAI",
+  "kind": "passage",
+  "locator": "How can I change my first name or full name?",
+  "passage": "In Gazette, address details should match with your Aadhaar.",
+  "passage_found": null,
+  "source_id": "uidai-faq-update",
+  "source_title": "Enrolment and update FAQ",
+  "stated_period": null,
+  "url": "https://uidai.gov.in/en/enrolment-and-update"
+ },
+ "open_signals": [],
+ "order": 13,
+ "procedure_id": "aadhaar-name-update",
+ "procedure_title": "Update the name on your Aadhaar",
+ "risk": "high",
+ "statement": "The address in the gazette should match the address on your Aadhaar.",
+ "status": "verified",
+ "step_action": "Take the gazette and an ID in your old name to an Aadhaar centre.",
+ "step_position": 1,
+ "type": "requirement",
+ "value": null,
+ "variant_id": "aadhaar-name-update.full",
+ "variant_title": "First name or full name change",
+ "verified_at": "2026-10-04T06:05:32.486Z",
+ "verified_by": "reviewer"
+}

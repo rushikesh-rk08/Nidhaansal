@@ -1,0 +1,42 @@
+{
+ "affects": null,
+ "conflicts": [],
+ "currency": "unknown",
+ "decisions": [
+  {
+   "at": "2026-10-04T06:05:10.649Z",
+   "decision": "approve",
+   "note": "",
+   "reviewer": "reviewer"
+  }
+ ],
+ "drafted_by": "ai",
+ "evidence": {
+  "issuer": "Department of Publication",
+  "kind": "passage",
+  "locator": "para 6",
+  "passage": "The documents must not be older than one year.",
+  "passage_found": null,
+  "source_id": "dop-guidelines-adult",
+  "source_title": "Guidelines for change of name for adult (major)",
+  "stated_period": "Fee stated for 01/04/2016 to 31/03/2017; payment note dated 04/10/2018",
+  "url": "https://cdnbbsr.s3waas.gov.in/s3ea6b2efbdd4255a9f1b3bbc6399b58f4/uploads/2023/06/202312082035285613.pdf"
+ },
+ "open_signals": [],
+ "order": 10,
+ "procedure_id": "name-change-adult",
+ "procedure_title": "Change your name legally (adult)",
+ "risk": "high",
+ "statement": "The documents must not be more than one year old.",
+ "status": "verified",
+ "step_action": "Send or hand in everything to the Department of Publication in Delhi.",
+ "step_position": 4,
+ "type": "deadline",
+ "value": {
+  "max_age_days": 365
+ },
+ "variant_id": "name-change-adult.central",
+ "variant_title": "Central gazette route",
+ "verified_at": "2026-10-04T06:05:10.649Z",
+ "verified_by": "reviewer"
+}
